@@ -63,3 +63,5 @@ In case something like this is needed
     <router-outlet></router-outlet>
 
     ```
+## Code
+https://github.com/atorres16/angular-nested-routes
